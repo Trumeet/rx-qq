@@ -1,0 +1,15 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+  <intent-filter>
+    <action name="com.weiyun.plugin.BROADCAST" />
+    <action name="com.tencent.mobileqq.ACTION_PLUGIN_CRASH" />
+    <action name="com.tencent.mobileqq.ACTION_PLUGIN_STARTUP_FAILED" />
+    <action name="com.tencent.mobileqq.ACTION_PLUGIN_DIR_INFO_LOG" />
+    <action name="com.tencent.mobileqq.rdm.report" />
+    <action name="com.tencent.mobileqq.msf.receiveofflinepush" />
+    <action name="com.tencent.mobileqq.msf.offlinepushclearall" />
+    <action name="com.tencent.mobileqq.msf.receiveofflinepushav" />
+    <action name="com.tencent.mobileqq.msf.offlinepushclearallav" />
+    <action name="com.tencent.mobileqq.qqwifi.scanStateChange" />
+    <action name="com.tencent.mobileqq.msf.startmsf" />
+  </intent-filter>
+</prescription>
