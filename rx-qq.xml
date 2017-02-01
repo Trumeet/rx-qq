@@ -11,5 +11,13 @@
     <action name="com.tencent.mobileqq.msf.offlinepushclearallav" />
     <action name="com.tencent.mobileqq.qqwifi.scanStateChange" />
     <action name="com.tencent.mobileqq.msf.startmsf" />
+    <action name="com.qzone.action-SYSTEM_CLEAR_PUSH" />
+    <action name="com.tencent.mobileqq.ACTION_DINGDONG_BROADCAST" />
+    <action name="com.tencent.open.download.start.com.tencent.mobileqq" />
+    <action name="com.tencent.open.download.complete.com.tencent.mobileqq" />
+    <action name="com.tencent.open.download.open.com.tencent.mobileqq" />
+    <action name="com.tencent.open.download.yyb.com.tencent.mobileqq" />
+    <action name="com.tencent.open.download.restart.com.tencent.mobileqq" />
+    <action name="com.tencent.open.download.pause.com.tencent.mobileqq" />
   </intent-filter>
 </prescription>
