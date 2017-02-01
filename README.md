@@ -4,3 +4,5 @@
 **特别感谢[MAT BBS](https://mat.letitfly.me)**
 
 导入：[点这里](https://greenify.github.io/liangyuteng0927/rx-qq)
+
+**Moved to [There](https://github.com/GreenifyUnofficalPrescription)**
