@@ -19,5 +19,9 @@
     <action name="com.tencent.open.download.yyb.com.tencent.mobileqq" />
     <action name="com.tencent.open.download.restart.com.tencent.mobileqq" />
     <action name="com.tencent.open.download.pause.com.tencent.mobileqq" />
+    <action name="req.com.tencent.mobileqq.EARLY_DOWNLOAD" />
+    <action name="req.com.tencent.mobileqq.EARLY_QUERY" />
+    <action name="req.com.tencent.mobileqq.EARLY_CANCEL" />
+    <action name="req.com.tencent.mobileqq.EARLY_SET_FAIL" />
   </intent-filter>
 </prescription>
